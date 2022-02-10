@@ -13,6 +13,8 @@ h1{
     color: white;
     text-align: center;
     font-family:'Bebas Neue', cursive;;
+    border: 1px solid white;
+    border-radius: 15px;
 }
 
 input{
@@ -54,6 +56,9 @@ input{
 
 .main{
     display: inline-block;
+    border: 1px solid white;
+    border-radius:15px;
+    padding: 8px;
 }
 
 .maincolor{
